@@ -1,0 +1,15 @@
+Package: qpxflights
+Type: Package
+Title: Quick API to Google QPX Flights
+Version: 0.0.1
+Author: David Jankoski
+Maintainer: David Jankoski <leledavid@gmail.com>
+Description: A quick and simple pkg i wrote to query the Google QPX Flights API.
+             You need to make a google project and obtain your QPX API key in order to work or
+             just follow the walkthrough on the project homepage.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    httr,
+    jsonlite
